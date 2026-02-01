@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468984650758",
+    "project_id": "votebondhu",
+    "storage_bucket": "votebondhu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468984650758:android:4522a10580cc4b66bd7787",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtLMc_w5V5NSN_vbyAaan6LNeMnGdinHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
