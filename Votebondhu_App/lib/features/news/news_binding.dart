@@ -9,5 +9,7 @@ class NewsBinding extends Bindings {
     Get.lazyPut<AppHttpClientProvider>(() => AppHttpClientProvider());
     Get.lazyPut<NewsRepository>(() => NewsRepository(httpClient: Get.find()));
     Get.lazyPut<NewsController>(() => NewsController(Get.find()));
+
+    
   }
 }
